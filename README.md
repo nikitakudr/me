@@ -1,2 +1,2 @@
-# me
+# Nikita Kudryashov
 portfolio and skills
