@@ -15,8 +15,7 @@
 
 - [Checklists](https://github.com/nikitakudr/Checklists)
 - [Test-Cases](https://github.com/nikitakudr/Test-Cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [Bug-Reports](https://yandexpracticumnikita.youtrack.cloud/projects/8df1b1d7-6338-4a8c-b8b6-8123d3cc6c80)
 - [Postman Collections](https://universal-crescent-228126.postman.co/workspace/Practicum~cc4cb686-2eda-4ae0-8c43-082b96c9b95c/collection/25265786-e29e8ff1-0f45-462a-90eb-9cdfe43a1f1b?action=share&creator=25265786)
 
 ### Follow Me
